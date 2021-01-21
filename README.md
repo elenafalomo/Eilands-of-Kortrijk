@@ -1,4 +1,4 @@
-# Eilands-of-Kortrijk
+# Eilands of Kortrijk
 ### A work in progress database which documents the historic moated farmsteads of Kortrijk
 
 In [Islands Inventory](https://github.com/elenafalomo/Eilands-of-Kortrijk/tree/main/Islands%20Inventory) you will find our own database in csv and xlsx format, for each moated farmstead you will find the following values:
