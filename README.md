@@ -19,4 +19,12 @@ In [Islands Inventory](https://github.com/elenafalomo/Eilands-of-Kortrijk/tree/m
 - **water retention basin:** indicates the presence of a water retention basin close to the moat or made out of what remains of the original moat
 - **relevant buildings:** indicates the presence of buildings related their original use
 
-In [Islands Documentation](https://github.com/elenafalomo/Eilands-of-Kortrijk/tree/main/Islands%20Documentation) you will find a folder for each island named after the "name" field of the database, it contains pdf scans of books on the history of the farmsteads and images from our field trips
+In [Islands Documentation](https://github.com/elenafalomo/Eilands-of-Kortrijk/tree/main/Islands%20Documentation) you will find a folder for each island named after the "name" field of the database, it contains the following assets:
+- **read me:** text document which gives an overiew of each island, it usage, its history, it also contains links to external sources
+- **historical documents:** scans of book and text documents published more than 10 years ago
+- **recent documents:** scans of book and text documents published more than 10 years ago
+- **historical images:** photos, schemes and drawings older than 1990 collected from various sources
+- **recent photos:** photos collected during our field trips
+- **georeferenced images:** images that are georeferenced
+- **footage:** camera and drone footage of each island
+
